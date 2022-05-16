@@ -1,0 +1,26 @@
+body {
+    background-color: #ffbb6e;
+    color: black;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#assessment {
+    padding: 5px 20px;
+    border-style: none;
+    color: #000;
+    background-color: #fff100;
+    border-bottom: 5px solid #ccc100;
+}
+#assessment:hover {
+    margin-top: 3px;
+    color: #000;
+    background: #fff20a;
+    border-bottom: 2px solid #ccc100;
+}
+input {
+    height: 25px;
+}
+a {
+    text-align: center;
+}
